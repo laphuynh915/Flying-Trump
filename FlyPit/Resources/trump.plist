@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>trump1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1128,407},{297,422}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{94,62},{297,422}}</string>
+				<key>sourceSize</key>
+				<string>{500,500}</string>
+			</dict>
+
+			<key>trump2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{422,375}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{47,109},{422,375}}</string>
+				<key>sourceSize</key>
+				<string>{500,500}</string>
+			</dict>
+
+			<key>trump3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{407,376},{391,375}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{62,109},{391,375}}</string>
+				<key>sourceSize</key>
+				<string>{500,500}</string>
+			</dict>
+
+			<key>trump4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1426,423},{266,406}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{109,78},{266,406}}</string>
+				<key>sourceSize</key>
+				<string>{500,500}</string>
+			</dict>
+
+			<key>trump5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1426,0},{297,422}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{94,62},{297,422}}</string>
+				<key>sourceSize</key>
+				<string>{500,500}</string>
+			</dict>
+
+			<key>trump6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,376},{406,390}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{47,94},{406,390}}</string>
+				<key>sourceSize</key>
+				<string>{500,500}</string>
+			</dict>
+
+			<key>trump7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{799,0},{375,406}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{62,78},{375,406}}</string>
+				<key>sourceSize</key>
+				<string>{500,500}</string>
+			</dict>
+
+			<key>trump8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{799,407},{328,422}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{78,62},{328,422}}</string>
+				<key>sourceSize</key>
+				<string>{500,500}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{2048,1024}</string>
+			<key>textureFileName</key>
+			<string>trump.png</string>
+			</dict>
+		</dict>
+</plist>
